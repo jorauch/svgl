@@ -2534,4 +2534,11 @@ export const svgs: iSVG[] = [
     wordmark: "/library/tina_wordmark.svg",
     url: "https://tina.io/"
   },
+  {
+    title: 'TESSA',
+    category: 'Software',
+    route: "/library/tessa.svg",
+    wordmark: "/library/tessa_wordmark.svg",
+    url: "https://www.tessa-dam.de/"
+  },
 ];
